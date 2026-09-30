@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+*.ifc
+*.obj
+*.mtl
+*_surface.txt
+*_labels.csv
+tests/window.png
